@@ -21,4 +21,4 @@ jobs:
     - name: valgrindcheck  
       run: chmod +x Hotel_Booking/all.out
     - name: valgrindcheck1  
-      run: valgrind Hotel_Booking/all.out
+   
