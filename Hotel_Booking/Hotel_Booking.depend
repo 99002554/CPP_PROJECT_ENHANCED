@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1601833189 source:c:\users\mahe\desktop\miniproject\hotel management system\hotel_booking\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Client.h"
+	"hotelroom.h"
+	"banquethall.h"
+	"restaurant.h"
+	"cost.h"
+
+1601831484 
+
+1601832783 c:\users\mahe\desktop\miniproject\hotel management system\hotel_booking\client.h
+
+1601831740 c:\users\mahe\desktop\miniproject\hotel management system\hotel_booking\hotelroom.h
+	"Client.h"
+
+1601831894 c:\users\mahe\desktop\miniproject\hotel management system\hotel_booking\banquethall.h
+	"Client.h"
+
+1601831484 c:\users\mahe\desktop\miniproject\hotel management system\hotel_booking\restaurant.h
+	"Client.h"
+
+1601832763 c:\users\mahe\desktop\miniproject\hotel management system\hotel_booking\cost.h
+	"hotelroom.h"
+	"banquethall.h"
+	"restaurant.h"
+
+1601832763 t.h"
+
+1601866919 source:/home/user/Downloads/Hotel_Booking/Hotel_Booking/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Client.h"
+	"hotelroom.h"
+	"banquethall.h"
+	"restaurant.h"
+	"cost.h"
+
+1601832782 /home/user/Downloads/Hotel_Booking/Hotel_Booking/Client.h
+
+1601831740 /home/user/Downloads/Hotel_Booking/Hotel_Booking/hotelroom.h
+	"Client.h"
+
+1601831894 /home/user/Downloads/Hotel_Booking/Hotel_Booking/banquethall.h
+	"Client.h"
+
+1601831484 /home/user/Downloads/Hotel_Booking/Hotel_Booking/restaurant.h
+	"Client.h"
+
+1601866871 /home/user/Downloads/Hotel_Booking/Hotel_Booking/cost.h
+	"hotelroom.h"
+	"banquethall.h"
+	"restaurant.h"
+
+1602799485 source:c:\users\training\downloads\cpp_mini_project-master\cpp_mini_project-master\hotel_booking\hotel_booking\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Client.h"
+	"hotelroom.h"
+	"banquethall.h"
+	"restaurant.h"
+	"cost.h"
+
+1602826604 c:\users\training\downloads\cpp_mini_project-master\cpp_mini_project-master\hotel_booking\hotel_booking\client.h
+
+1602799485 c:\users\training\downloads\cpp_mini_project-master\cpp_mini_project-master\hotel_booking\hotel_booking\hotelroom.h
+	"Client.h"
+
+1602799485 c:\users\training\downloads\cpp_mini_project-master\cpp_mini_project-master\hotel_booking\hotel_booking\banquethall.h
+	"Client.h"
+
+1602799485 c:\users\training\downloads\cpp_mini_project-master\cpp_mini_project-master\hotel_booking\hotel_booking\restaurant.h
+	"Client.h"
+
+1602799485 c:\users\training\downloads\cpp_mini_project-master\cpp_mini_project-master\hotel_booking\hotel_booking\cost.h
+	"hotelroom.h"
+	"banquethall.h"
+	"restaurant.h"
+
