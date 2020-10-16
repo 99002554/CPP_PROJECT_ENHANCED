@@ -19,4 +19,4 @@ jobs:
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: valgrindcheck  
-      run: chmod a+x CPP_PROJECT_ENHANCED/Hotel_Booking/all.out
+      run: chmod a+x Hotel_Booking/all.out
