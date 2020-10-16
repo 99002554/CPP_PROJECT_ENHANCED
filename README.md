@@ -4,3 +4,5 @@
 ![cppcheck-action](https://github.com/99002554/CPP_PROJECT_ENHANCED/workflows/cppcheck-action/badge.svg)
 
 ![unit-test](https://github.com/99002554/CPP_PROJECT_ENHANCED/workflows/unit-test/badge.svg?branch=main)
+
+![C/C++ CI](https://github.com/99002554/CPP_PROJECT_ENHANCED/workflows/C/C++%20CI/badge.svg?branch=main)
